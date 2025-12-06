@@ -92,19 +92,21 @@
 
 ## 🧩 Featured Projects  
 
-<p align="center">
+### 🍎 Apple-iPhone  
+A smooth, Apple-inspired UI recreation built using **React + GSAP**, focusing on animations & premium UI feel.  
+**Tech:** React · GSAP · Modern UI  
 
-  <!-- Apple-iPhone -->
-  <a href="https://github.com/Sparsh-Dokania/Apple-Iphone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sparsh-Dokania&repo=Apple-Iphone&theme=transparent&hide_border=false" />
-  </a>
+🔗 **Repo:** https://github.com/Sparsh-Dokania/Apple-Iphone  
+---
 
-  <!-- Redefine-Gaming -->
-  <a href="https://github.com/Sparsh-Dokania/Redefine-Gaming">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sparsh-Dokania&repo=Redefine-Gaming&theme=transparent&hide_border=false" />
-  </a>
+### 🎮 Redefine-Gaming  
+A bold, gaming-inspired interface experiment exploring motion dynamics and immersive UI.  
+**Tech:** React · GSAP · Motion UI  
 
-</p>
+🔗 **Repo:** https://github.com/Sparsh-Dokania/Redefine-Gaming  
+---
+
+
 
 
 ---
