@@ -1,7 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:33ccff,100:0066ff&height=180&text=👋%20Hi%20I'm%20Sparsh%20Dokania&fontAlignY=40&fontColor=ffffff&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:33ccff,100:0066ff&height=180&text=👋%20Hi%20I'm%20Sparsh%20Dokania&fontAlignY=40&fontColor=ffffff&fontSize=40&font=Poppins" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sparsh-Dokania&label=Profile%20Views&color=1abc9c&style=flat" />
@@ -22,7 +23,7 @@
 ## 🌐 Socials  
 <p>
   <a href="https://www.linkedin.com/in/sparshdokania/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sparshdokania@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:sparshdokania2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Sparsh-Dokania"><img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" /></a>
 </p>
 
@@ -38,7 +39,7 @@
       <br/>React
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gsap" width="48" height="48" alt="GSAP" />
+        <img src="https://img.shields.io/badge/GSAP-%F0%9F%94%A5%20Animations-2ECC71?style=for-the-badge&logo=greensock&logoColor=black" />
       <br/>GSAP
     </td>
     <td align="center" width="96">
@@ -90,15 +91,21 @@
 ---
 
 ## 🧩 Featured Projects  
-*(Will look perfect once you push your React + GSAP projects)*  
 
 <p align="center">
-  <a href="https://github.com/Sparsh-Dokania">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sparsh-Dokania&repo=YOUR_PROJECT&theme=transparent" />
+
+  <!-- Apple-iPhone -->
+  <a href="https://github.com/Sparsh-Dokania/Apple-Iphone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sparsh-Dokania&repo=Apple-Iphone&theme=transparent&hide_border=false" />
   </a>
+
+  <!-- Redefine-Gaming -->
+  <a href="https://github.com/Sparsh-Dokania/Redefine-Gaming">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sparsh-Dokania&repo=Redefine-Gaming&theme=transparent&hide_border=false" />
+  </a>
+
 </p>
 
-_Add repo names and I’ll design custom cards for each._
 
 ---
 
