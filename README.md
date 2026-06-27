@@ -92,7 +92,7 @@
 
 ## 🧩 Featured Projects  
 
-### 🍎 Apple-iPhone  
+### Apple-iPhone  
 A smooth, Apple-inspired UI recreation built using **React + GSAP**, focusing on animations & premium UI feel.  
 **Tech:** React · GSAP · Modern UI  
 
