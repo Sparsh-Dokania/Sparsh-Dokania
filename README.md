@@ -12,9 +12,9 @@
 
 ## 📘 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-- 🎨 **Frontend Engineer (React)** who loves crafting clean, animated, visually striking UIs  
+- 🎨 **Full-Stack Engineer** who loves crafting clean, animated, visually striking Products  
 - 💫 Bringing interfaces to life using **GSAP**, micro-interactions, and smooth motion  
-- 🚀 Currently growing into **full-stack development** (Node.js + Express + MongoDB)  
+- 🚀 Growing deep into **full-stack development** (Node.js + Express + MongoDB)  
 - 🧠 Obsessed with UI smoothness, component design, layout systems, and visual detail  
 - 📚 Lifelong learner exploring **modern frontend architecture & user experience**  
 
